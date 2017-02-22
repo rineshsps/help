@@ -7,5 +7,5 @@ http://www.hanselman.com/blog/VisualStudiosMostUsefulAndUnderusedTips.aspx
   3. MAP MODE FOR THE SCROLL BAR
   4. NAVIGATE TO - CTRL+, (CONTROL+COMMA)
 
-AngularJs 
+### AngularJs 
 https://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/
