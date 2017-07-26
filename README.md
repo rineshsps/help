@@ -9,3 +9,7 @@ http://www.hanselman.com/blog/VisualStudiosMostUsefulAndUnderusedTips.aspx
 
 ### AngularJs 
 https://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/
+
+### JS basics
+https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5
+
